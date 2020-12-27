@@ -1,4 +1,4 @@
-# vue3-study
+# vue3-temp
 
 ## Project setup
 ```
